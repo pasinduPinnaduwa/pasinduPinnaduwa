@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pasinduPinnaduwa
 - 👀 I’m interested in web development,programmming,ui-ux designing
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning backend programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
